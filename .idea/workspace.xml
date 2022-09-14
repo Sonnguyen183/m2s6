@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8132268d-1179-4b3e-9aad-073de0e7c320" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m2s6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movepoint/MPtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movepoint/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movepoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movepoint/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Ponit2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Test2d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Test3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/CylinderTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EemnnbsOzExAKXXGTpzjV0z8gd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Test2d">
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cacdoituonghinhhoc.Shape" />
+      <module name="m2s6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cacdoituonghinhhoc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point2d3d.Test2d" />
+      <module name="m2s6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Point2d3d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2d" />
+        <item itemvalue="Application.Shape" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8132268d-1179-4b3e-9aad-073de0e7c320" name="Changes" comment="" />
+      <created>1662964595360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662964595360</updated>
+      <workItem from="1662964596747" duration="417000" />
+      <workItem from="1663032400992" duration="7075000" />
+      <workItem from="1663121479827" duration="2535000" />
+      <workItem from="1663124206372" duration="51000" />
+      <workItem from="1663124263527" duration="7789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
