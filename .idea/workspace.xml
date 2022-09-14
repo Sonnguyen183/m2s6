@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8132268d-1179-4b3e-9aad-073de0e7c320" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m2s6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movepoint/MPtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movepoint/MoveablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movepoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movepoint/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Ponit2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Test2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point2d3d/Test3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cacdoituonghinhhoc/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/circleandcylinder/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -105,7 +88,8 @@
       <workItem from="1663032400992" duration="7075000" />
       <workItem from="1663121479827" duration="2535000" />
       <workItem from="1663124206372" duration="51000" />
-      <workItem from="1663124263527" duration="7789000" />
+      <workItem from="1663124263527" duration="8340000" />
+      <workItem from="1663160387492" duration="4658000" />
     </task>
     <servers />
   </component>
